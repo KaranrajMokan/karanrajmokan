@@ -2,11 +2,6 @@
 <!--
 **KaranrajMokan/karanrajmokan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# Hello user 😏
-
-Welcome to my gitHub page!
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
 Here are some ideas to get you started:
 
@@ -19,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hello user 😏
+
+Welcome to my gitHub page!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
