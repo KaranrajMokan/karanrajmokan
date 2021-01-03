@@ -31,6 +31,6 @@ Contributions are always welcome! Please create a PR to add Github Profile.
 Give a ⭐️  if this project helped you!
 
 <p align="center">
-<a href="https://www.instagram.com/_kjs.gram_/"> <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v2.png"/></a>
-<a href= "https://twitter.com//karanrajmokan"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href="https://www.instagram.com/_kjs.gram_/"> <img src="https://img.icons8.com/material-outlined/48/000000/instagram-new--v2.png"/></a>
+<a href= "https://twitter.com//karanrajmokan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
 </p>
