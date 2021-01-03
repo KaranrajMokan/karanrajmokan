@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 Welcome to my gitHub page!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
+
+
+# Contribute
+
+Contributions are always welcome! Please create a PR to add Github Profile.
+
+## :man_astronaut: Show your support
+
+Give a ⭐️ if this project helped you!
