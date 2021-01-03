@@ -33,5 +33,6 @@ Give a ⭐️  if this project helped you!
 <p align="center">
 <a href="https://www.instagram.com/_kjs.gram_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href= "https://twitter.com//karanrajmokan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
-<a hred="mailto:karanrajmokan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+<a href="mailto:karanrajmokan@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+<a href="https://www.facebook.com/karanraj.mokan"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 </p>
