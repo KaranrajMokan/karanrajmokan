@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Welcome to my gitHub page!
 
 
-<img src="/hp.png" width="480" height="480"></img>
+<img src="/hp.gif" width="480" height="480"></img>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
