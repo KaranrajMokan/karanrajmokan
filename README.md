@@ -25,7 +25,7 @@ Welcome to my gitHub page!
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
 
-# Contribute
+# Contribution
 
 Contributions are always welcome! Please create a PR to add Github Profile.
 
