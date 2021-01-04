@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 Welcome to my gitHub page!
 
+
+<iframe src="https://giphy.com/embed/8bmohJ9NabUKk" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/oktotally-quidditch-art-harry-potter-8bmohJ9NabUKk">via GIPHY</a></p>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
 
