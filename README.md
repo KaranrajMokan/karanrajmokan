@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="font-family:monospace; text-align:center;">Hello user 😏</h1>
+# Hello user 😏
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to my gitHub page!
+Welcome to my gitHub page!
 
-<img style="align-items:center;" src="/hp.gif" width="300" height="300"></img>
+<img src="/hp.gif" width="350" height="350"></img>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
