@@ -15,27 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```html
-<html>
-  <head>
-    <style> 
-        @font-face {
-            font-family: WizardWorld;
-            src: url(WizardWorld.tff);
-        }
-        h1 {
-            font-family : WizardWorld;
-        }
-    </style>
-  </head>
-</html>
-```
-
-<h1> Hello user 😏 </h1>
+<h1 style="text-align:center;"> Hello user 😏 </h1>
 
 Welcome to my gitHub page!
 
-<img src="/hp.gif" width="350" height="350"></img>
+<img style="align-content:center;" src="/hp.gif" width="350" height="350"></img>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
