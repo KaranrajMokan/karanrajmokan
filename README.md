@@ -15,18 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style> 
-@font-face {
-   font-family: WizardWorld;
-   src: url(WizardWorld.tff);
-}
-h1 {
-   font-family : WizardWorld;
-}
-</style>
-
-
-<center> <h1>Hello user 😏</h1>
+<center> <h1 style="font-family:fantasy;">Hello user 😏</h1>
 
 Welcome to my gitHub page!
 
