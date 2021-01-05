@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<html>
-<head>
 <style> 
 @font-face {
    font-family: WizardWorld;
@@ -26,15 +24,13 @@ h1 {
    font-family : WizardWorld;
 }
 </style>
-</head>
 
 
-<h1>Hello user</h1> 😏
+<center> <h1>Hello user 😏</h1>
 
 Welcome to my gitHub page!
 
-
-<img src="/hp.gif" width="480" height="480"></img>
+<img src="/hp.gif" width="480" height="480"></img> </center>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan)
 
