@@ -15,7 +15,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello user 😏
+<html>
+<head>
+<style> 
+@font-face {
+   font-family: WizardWorld;
+   src: url(WizardWorld.tff);
+}
+h1 {
+   font-family : WizardWorld;
+}
+</style>
+</head>
+
+
+<h1>Hello user</h1> 😏
 
 Welcome to my gitHub page!
 
