@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-h1{
+<html>
+h1.dum{
   text-align:center;
 }
+</html>
 
-<div> <h1> Hello user 😏 </h1>
+<div> <h1 class="dum"> Hello user 😏 </h1>
 
 Welcome to my gitHub page!😎
 
