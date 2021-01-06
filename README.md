@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align:center;"> <h1> Hello user 😏 </h1>
+h1{
+  text-align:center;
+}
+
+<div> <h1> Hello user 😏 </h1>
 
 Welcome to my gitHub page!😎
 
