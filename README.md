@@ -14,15 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<html>
-h1.dum{
-  text-align:center;
-}
-</html>
 
-<div> <h1 class="dum"> Hello user 😏 </h1>
+<div align="center"> <h1> Hello user 😏 </h1>
 
-Welcome to my gitHub page!😎
+Welcome to my gitHub page! 😎
 
 <img src="/hp.gif" width="350" height="350"></img> </div>
 
