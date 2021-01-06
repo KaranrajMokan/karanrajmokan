@@ -21,7 +21,7 @@ Welcome to my gitHub page! 😎
 
 <img src="/hp.gif" width="350" height="350"></img>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=karanrajmokan&hide=issues&show_icons=true&theme=nord)
 
 
 # Contribution
