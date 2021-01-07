@@ -30,7 +30,7 @@ Contributions are always welcome! Please create a PR to add Github Profile.
 
 ## :man_astronaut: Show your support
 
-Give a ⭐️  if this project helped you!
+Give a ⭐️  if my projects helped you!
 <br><br><br>
 <a href="https://www.instagram.com/_kjs.gram_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href= "https://twitter.com//karanrajmokan"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a>
